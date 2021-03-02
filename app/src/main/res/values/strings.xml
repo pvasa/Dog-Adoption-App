@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">The Good Doggo Place</string>
+
+    <string name="desc_doggo_image">Doggo image</string>
+    <string name="desc_back_button">Back button</string>
+
+    <string name="title_welcome">Welcome to The Good Doggo Place</string>
+    <string name="title_adopt">Adopt a doggo</string>
+
+    <string name="text_breed_details">Breed details</string>
+    <string name="text_no_details">No details available.</string>
+
+    <string name="text_name">name</string>
+    <string name="text_alt_names">alternate names</string>
+    <string name="text_origin">origin</string>
+    <string name="text_temperament">temperament</string>
+    <string name="text_country_code">country</string>
+    <string name="text_lifespan">lifespan</string>
+    <string name="text_weight">weight</string>
+    <string name="text_height">height</string>
+    <string name="text_more_info">more info</string>
+    <string name="text_adopt">Adopt</string>
+    <string name="text_ok">OK</string>
+
+    <string name="height_in_metric">%s cms</string>
+    <string name="weight_in_metric">%s kgs</string>
+</resources>
